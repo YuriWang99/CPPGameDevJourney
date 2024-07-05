@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GAME_DEV\\CPP\\pong-clone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D544BEA-5D2C-4408-8CD9-0B3563E60D90}|pong-clone.vcxproj|E:\\GAME_DEV\\CPP\\pong-clone\\pong_clone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D544BEA-5D2C-4408-8CD9-0B3563E60D90}|pong-clone.vcxproj|solutionrelative:pong_clone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GAME_DEV\\CPP\\01_hello_SDL\\01_hello_SDL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01_hello_SDL.cpp",
+              "DocumentMoniker": "E:\\GAME_DEV\\CPP\\01_hello_SDL\\01_hello_SDL.cpp",
+              "RelativeDocumentMoniker": "..\\01_hello_SDL\\01_hello_SDL.cpp",
+              "ToolTip": "E:\\GAME_DEV\\CPP\\01_hello_SDL\\01_hello_SDL.cpp",
+              "RelativeToolTip": "..\\01_hello_SDL\\01_hello_SDL.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-03T03:25:57.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pong_clone.cpp",
+              "DocumentMoniker": "E:\\GAME_DEV\\CPP\\pong-clone\\pong_clone.cpp",
+              "RelativeDocumentMoniker": "pong_clone.cpp",
+              "ToolTip": "E:\\GAME_DEV\\CPP\\pong-clone\\pong_clone.cpp",
+              "RelativeToolTip": "pong_clone.cpp",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAiwNYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-03T01:02:05.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
